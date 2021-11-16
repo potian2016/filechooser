@@ -1,0 +1,3 @@
+rootProject.name = "FileChooser"
+include ':app'
+include ':filechooser'
